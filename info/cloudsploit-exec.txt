@@ -1,0 +1,17 @@
+Region=ap-south-1, Table=, Time=78s. RegionTotal=78s, Total=78s
+Region=eu-north-1, Table=, Time=83s. RegionTotal=161s, Total=161s
+Region=eu-west-3, Table=, Time=89s. RegionTotal=250s, Total=250s
+Region=eu-west-2, Table=, Time=97s. RegionTotal=347s, Total=347s
+Region=eu-west-1, Table=, Time=97s. RegionTotal=444s, Total=444s
+Region=ap-northeast-3, Table=, Time=71s. RegionTotal=515s, Total=515s
+Region=ap-northeast-2, Table=, Time=79s. RegionTotal=594s, Total=594s
+Region=ap-northeast-1, Table=, Time=80s. RegionTotal=674s, Total=674s
+Region=ca-central-1, Table=, Time=73s. RegionTotal=747s, Total=747s
+Region=sa-east-1, Table=, Time=78s. RegionTotal=825s, Total=825s
+Region=ap-southeast-1, Table=, Time=78s. RegionTotal=903s, Total=903s
+Region=ap-southeast-2, Table=, Time=67s. RegionTotal=970s, Total=970s
+Region=eu-central-1, Table=, Time=72s. RegionTotal=1042s, Total=1042s
+Region=us-east-1, Table=, Time=75s. RegionTotal=1117s, Total=1117s
+Region=us-east-2, Table=, Time=77s. RegionTotal=1194s, Total=1194s
+Region=us-west-1, Table=, Time=68s. RegionTotal=1262s, Total=1262s
+Region=us-west-2, Table=, Time=89s. RegionTotal=1351s, Total=1351s
