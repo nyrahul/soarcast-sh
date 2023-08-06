@@ -1,0 +1,3 @@
+[submodule "cloudsploit"]
+	path = cloudsploit
+	url = ./cloudsploit
