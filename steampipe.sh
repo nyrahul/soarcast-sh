@@ -30,7 +30,7 @@ for region in ${regions[@]}; do
 	export AWS_DEFAULT_REGION=$region
 	for table in ${regional_table_list[@]}; do
 		SECONDS=0
-		get_data | tee $DATADIR/${table}__${region}.json &
+		get_data | tee $DATADIR/${table}__${region}.json
 		((total+=$SECONDS))
 		((regtotal+=$SECONDS))
 		echo "Region=$region, Table=$table, Time=${SECONDS}s. RegionTotal=${regtotal}s, Total=${total}s"
