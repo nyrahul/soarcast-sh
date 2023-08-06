@@ -1,0 +1,85 @@
+f267f6fe-42af-4de2-b491-e56e3f76ea9a	AWS Steampipe Access Keys | ap-south-1	-	aws: 956994857092	True
+	f1479846-f2e1-4730-9147-7eddf08e0d37	Prowler Access Keys | us-west-1	-	aws: 956994857092	True
+	eea48e24-c61a-469b-bf53-c3b172dbbef4	Security Hub Access Keys | ap-northeast-2	-	aws: 956994857092	True
+	ee15fbba-69e0-44fc-b953-f80bfa0f2263	Cloudsploit Access Keys | sa-east-1	-	aws: 956994857092	True
+	ebaddc6f-ab69-4494-bbc2-987e84eebb81	Macie Metadata Access Keys | eu-west-3	-	aws: 956994857092	True
+	eb1271c7-05ea-466b-8622-f32148b0fa4b	AWS Steampipe Access Keys | eu-west-2	-	aws: 956994857092	True
+	e44df634-6208-47df-904c-2c32eb8bedb3	Cloudsploit Access Keys | eu-west-3	-	aws: 956994857092	True
+	e36ee63b-3f1a-4faf-894f-b2fc2b594117	Macie Metadata Access Keys | sa-east-1	-	aws: 956994857092	True
+	e2ec0d32-0c88-4daf-aaea-68e693ddf6fb	Prowler Access Keys | sa-east-1	-	aws: 956994857092	True
+	e2b27778-b0fc-49f8-8de2-f39256e2f427	Prowler Access Keys | ap-northeast-3	-	aws: 956994857092	True
+	e123ca0e-32ea-4560-82ba-90c5c6e82c2e	Prowler Access Keys | eu-west-1	-	aws: 956994857092	True
+	df14cd9b-985d-4527-8e3f-194c06703db9	AWS Steampipe Access Keys | us-east-1	-	aws: 956994857092	True
+	da79df5a-df74-4a72-aa6a-57d993ae56d8	Security Hub Access Keys | ap-northeast-3	-	aws: 956994857092	True
+	d7d2baf5-5dbd-4487-97a9-6fc504f08a4c	Macie Metadata Access Keys | us-east-1	-	aws: 956994857092	True
+	d52f9932-aa3a-4824-ac59-407888a62573	Cloudsploit Access Keys | us-east-2	-	aws: 956994857092	False
+	d29f8df3-342a-4548-ac38-8f40fd238d39	AWS Steampipe Access Keys | ap-northeast-2	-	aws: 956994857092	True
+	d110677b-539c-46ba-93fe-144fd9fabaf1	Security Hub Access Keys | ca-central-1	-	aws: 956994857092	True
+	cca4a993-e327-4550-9497-e305aa419faa	AWS Steampipe Access Keys | ap-northeast-3	-	aws: 956994857092	True
+	cbe262ab-d8da-4cbe-b38a-2d172ba116d9	Prowler Access Keys | ca-central-1	-	aws: 956994857092	True
+	c501670b-87c4-438a-aff8-c909346e1b12	Cloudsploit Access Keys | ap-southeast-1	-	aws: 956994857092	True
+	c095d4ad-786f-4d37-b47e-9cfa44b935ce	Prowler Access Keys | eu-west-2	-	aws: 956994857092	True
+	bedc2a22-4273-4716-819e-e396b490b44b	Macie Metadata Access Keys | us-east-2	-	aws: 956994857092	True
+	b40f5d0b-e60b-476a-b70b-627726d23073	Security Hub Access Keys | eu-west-1	-	aws: 956994857092	True
+	a538c22d-3e10-4928-ae2e-0320c79ab636	AWS Steampipe Access Keys | ap-southeast-1	-	aws: 956994857092	True
+	981be46f-4000-4cb5-8944-d04fcedd3792	Prowler Access Keys | ap-northeast-2	-	aws: 956994857092	True
+	95705a18-f985-4d43-a2d2-ae17a231aa34	Prowler Access Keys | eu-west-3	-	aws: 956994857092	True
+	94d4423e-ff74-46b2-8cfb-ae383571d3b4	Macie Metadata Access Keys | ap-southeast-2	-	aws: 956994857092	True
+	93741a94-ae9a-4b05-926a-baac7f77eb06	Security Hub Access Keys | us-east-2	-	aws: 956994857092	True
+	8e67df01-2819-4c0a-909f-67449964206a	AWS Steampipe Access Keys | us-west-1	-	aws: 956994857092	True
+	8c9ddb5d-8d46-4961-b0b0-9fb51d675332	AWS Steampipe Access Keys | sa-east-1	-	aws: 956994857092	True
+	899c0891-f8e0-41ca-85b4-175c4e371ae0	Cloudsploit Access Keys | eu-west-2	-	aws: 956994857092	True
+	86ca7fbf-8271-473a-8f67-773dabc01695	Macie Metadata Access Keys | ap-northeast-1	-	aws: 956994857092	True
+	818e80f7-a75d-4f46-a149-5d927fd8f47f	Security Hub Access Keys | eu-west-2	-	aws: 956994857092	True
+	800d7eb4-561b-43d6-b4bf-81f6c7aa84c1	Cloudsploit Access Keys | ap-northeast-2	-	aws: 956994857092	True
+	7a36c535-5453-4031-a706-9a4dd4d75fc5	Macie Metadata Access Keys | ap-northeast-2	-	aws: 956994857092	True
+	785063a5-5056-40bf-966c-1835a351a491	Cloudsploit Access Keys | ap-northeast-1	-	aws: 956994857092	True
+	74a4baa1-8a7c-46ce-afa4-dfee10996d18	Macie Metadata Access Keys | ap-northeast-3	-	aws: 956994857092	True
+	7493f784-ae26-42b9-b1d2-9b3e5d1f16e3	Security Hub Access Keys | us-east-1	-	aws: 956994857092	True
+	73f023fe-f742-402b-b03e-ba47b8169112	Security Hub Access Keys | us-west-2	-	aws: 956994857092	True
+	73dec8c9-531e-4acf-b132-35f2a1e8afc8	AWS Steampipe Access Keys | eu-west-1	-	aws: 956994857092	True
+	724451c8-9460-4c49-a1fa-73eb2fbcba8e	Macie Metadata Access Keys | ca-central-1	-	aws: 956994857092	True
+	71c1f1cb-969c-44f1-99aa-5bdd741f740c	Macie Metadata Access Keys | eu-west-2	-	aws: 956994857092	True
+	6d9abcc9-0c16-474c-bc97-ab6ec9d56d94	Security Hub Access Keys | ap-southeast-2	-	aws: 956994857092	True
+	68ea44e1-7579-41cf-bfa5-fa460442b654	Security Hub Access Keys | eu-central-1	-	aws: 956994857092	True
+	65fa62de-10e3-416b-8e80-4fab8397a2bd	Cloudsploit Access Keys | ca-central-1	-	aws: 956994857092	True
+	650bfc1f-6fa6-4c6a-b85f-8d2c6ae394eb	AWS Steampipe Access Keys | us-east-2	-	aws: 956994857092	True
+	624f48ef-c2ff-4264-b103-a9ac7a9cf293	Cloudsploit Access Keys | us-east-1	-	aws: 956994857092	True
+	60d3e4a0-043d-4f22-b104-64673448f8ed	Cloudsploit Access Keys | eu-west-1	-	aws: 956994857092	True
+	5f99f8c0-63ea-4990-91ed-1bd159f0b46b	Prowler Access Keys | ap-southeast-2	-	aws: 956994857092	True
+	5c1e913a-a342-4be8-a47a-e3246c136748	AWS Steampipe Access Keys | eu-central-1	-	aws: 956994857092	True
+	5b9c4576-af73-4884-860a-934583505fa7	Macie Metadata Access Keys | eu-central-1	-	aws: 956994857092	True
+	5b42821b-b5e8-4895-9ee0-5b3714388b11	Cloudsploit Access Keys | ap-south-1	-	aws: 956994857092	True
+	5b14b26d-8c9b-409f-9922-f40607c054a8	Macie Metadata Access Keys | ap-south-1	-	aws: 956994857092	True
+	4fc950ba-cd5d-4287-9fac-fa7e7248e3c9	Macie Metadata Access Keys | us-west-2	-	aws: 956994857092	True
+	4f636ac7-43eb-4afe-9644-7f00e9412173	Macie Metadata Access Keys | eu-north-1	-	aws: 956994857092	True
+	4f604ea7-b1bd-4b1b-ba26-4af5c8201b41	Prowler Access Keys | us-east-2	-	aws: 956994857092	True
+	4d081f32-aa0a-4b6a-a512-d71b53f85745	Security Hub Access Keys | us-west-1	-	aws: 956994857092	True
+	4cfce72f-9b79-4b00-aaba-52d47f60703e	AWS Steampipe Access Keys | ap-northeast-1	-	aws: 956994857092	True
+	4c396a43-8b9a-4dab-91f5-afbabd2584ea	Cloudsploit Access Keys | ap-southeast-2	-	aws: 956994857092	True
+	4aab6f1a-f0f6-4337-ae47-e4ae34a71fd1	Macie Metadata Access Keys | ap-southeast-1	-	aws: 956994857092	True
+	49864cae-9894-4b62-af87-dbb7a2effb26	Cloudsploit Access Keys | us-west-1	-	aws: 956994857092	True
+	45350736-0415-4631-9553-46db84f73c9b	AWS Steampipe Access Keys | eu-west-3	-	aws: 956994857092	True
+	4480acf0-4e52-4977-8e04-29d00eac27f2	AWS Steampipe Access Keys | ap-southeast-2	-	aws: 956994857092	True
+	3c228eda-283b-45d3-ae33-8dbfd05d937d	AWS Steampipe Access Keys | eu-north-1	-	aws: 956994857092	True
+	3af81ad1-d9c5-4bde-8b1f-16fa5c1dfdb9	Security Hub Access Keys | ap-southeast-1	-	aws: 956994857092	True
+	3ae11b6f-47ad-4f1f-b729-4b160f60cb07	Macie Metadata Access Keys | us-west-1	-	aws: 956994857092	True
+	3589bb21-e845-41ba-a742-e9a308e5834e	Prowler Access Keys | ap-northeast-1	-	aws: 956994857092	True
+	349c256b-1398-44af-966a-592369b732ec	Cloudsploit Access Keys | ap-northeast-3	-	aws: 956994857092	True
+	3286e71f-0eea-422d-a587-c7a7d5ea74af	Prowler Access Keys | eu-north-1	-	aws: 956994857092	True
+	31cfa9fa-6aab-4dad-b48f-0f3eb168c4ae	Prowler Access Keys | eu-central-1	-	aws: 956994857092	True
+	2e5c3cee-9585-4f15-bfd9-3eacf6c883dc	Prowler Access Keys | ap-southeast-1	-	aws: 956994857092	True
+	2c769c25-6aba-45ce-8bb3-161bd3faf0c0	Security Hub Access Keys | sa-east-1	-	aws: 956994857092	True
+	266a7f1f-e2b0-4369-8dbe-5b646b9a3b50	Macie Metadata Access Keys | eu-west-1	-	aws: 956994857092	True
+	26653017-6301-45cb-b7db-a60d9eac1187	AWS Steampipe Access Keys | ca-central-1	-	aws: 956994857092	True
+	1fed9051-d77e-49d6-8192-e2fcd166e996	Security Hub Access Keys | eu-north-1	-	aws: 956994857092	True
+	1d2a16ec-4784-4081-a5eb-9a9ea0954ca2	Prowler Access Keys | us-west-2	-	aws: 956994857092	True
+	16202def-27a8-4be0-8df1-96712da435c2	AWS Steampipe Access Keys | us-west-2	-	aws: 956994857092	True
+	155fbf55-a513-4bbe-9b6c-f1d335005aac	Prowler Access Keys | ap-south-1	-	aws: 956994857092	True
+	12570be0-6116-4051-a8cc-d65aff0f8f09	Cloudsploit Access Keys | eu-central-1	-	aws: 956994857092	True
+	0af6896d-7a24-4392-bbd1-786901575e86	Security Hub Access Keys | ap-northeast-1	-	aws: 956994857092	True
+	09f1b7ed-3242-42c5-aa67-57a118c9c12d	Security Hub Access Keys | ap-south-1	-	aws: 956994857092	True
+	05256dd0-bfad-4eaf-9cc9-e2fdca5f09a0	Security Hub Access Keys | eu-west-3	-	aws: 956994857092	True
+	0380f7f8-8727-448b-8d75-1c4fc6c55b0f	Cloudsploit Access Keys | eu-north-1	-	aws: 956994857092	True
+	01f03803-acdc-45f4-9d1e-771acaa48b67	Prowler Access Keys | us-east-1	-	aws: 956994857092	True
+	008f1716-fac0-4147-b529-e93f7d42c7e4	Cloudsploit Access Keys | us-west-2	-	aws: 956994857092	True
