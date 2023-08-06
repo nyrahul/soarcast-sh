@@ -1,3 +1,6 @@
 [submodule "cloudsploit"]
 	path = cloudsploit
 	url = ./cloudsploit
+[submodule "prowler"]
+	path = prowler
+	url = ./prowler
