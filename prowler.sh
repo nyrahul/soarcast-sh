@@ -10,11 +10,13 @@ cd prowler
 pdir=$DATADIR/prowler
 mkdir -p $pdir
 
+LOG=$DATADIR/prowler.log
 for region in ${regions[@]}; do
 	SECONDS=0
 	outfile=$DATADIR/prowler_${region}.json
 #    echo "./index.js --json=$outfile --console=none $compliance $suppstr"
-    ./prowler -f $region -M json -o $pdir
+	echo "executing for region=$region ... starting at $SECONDS"
+    ./prowler -f $region -M json -o $pdir >$LOG 2>$LOG
 	((total+=$SECONDS))
 	echo "Region=$region, Time=${SECONDS}s, Total=${total}s"
 done
