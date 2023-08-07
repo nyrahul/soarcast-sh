@@ -34,8 +34,7 @@ for region in ${regions[@]}; do
 	get_suppressed_regions "$region"
 	outfile=$DATADIR/cloudsploit_${region}.json
 #    echo "./index.js --json=$outfile --console=none $compliance $suppstr"
-    ./index.js --json=$outfile --console=none $compliance $suppstr 2>/dev/null >/dev/null
+    bash ./index.js --json=$outfile --console=none $compliance $suppstr 2>/dev/null >/dev/null
 	((total+=$SECONDS))
-	((regtotal+=$SECONDS))
-	echo "Region=$region, Table=$table, Time=${SECONDS}s. RegionTotal=${regtotal}s, Total=${total}s"
+	echo "Region=$region, Time=${SECONDS}s. Total=${total}s"
 done
